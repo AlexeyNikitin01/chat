@@ -1,0 +1,4 @@
+mode: server
+port: 8081
+host: localhost
+logLevel: info
